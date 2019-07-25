@@ -7,8 +7,11 @@ description: Data Scientist passionate about health, wellbeing and environment.
 baseurl:  https://rominacarabathampi.github.io/ # the subpath of your site, e.g. /blog/
 url:  https://rominacarabathampi.github.io/ # the base hostname & protocol for your site
 
+avatar: https://github.com/rominacarabathampi/rominacarabathampi.github.io/blob/master/img/logo%20data%20science_copyright%20mine.png
+
 github_username:  rominacarabathampi
 linkedin: rominacarabathampi
 github-url: rominacarabathampi
+
 # Build settings
 markdown: kramdown
